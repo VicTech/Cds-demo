@@ -91,10 +91,8 @@ ImageBase=4194304
 ExeDescription=Express XP Theme Manager by Developer Express Inc.
 [Directories]
 OutputDir=
-UnitOutputDir=D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dcu
 PackageDLLOutputDir=
 PackageDCPOutputDir=
-SearchPath=$(DELPHI)\Lib\Debug;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dtif;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcp;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\DBIOCP;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Lib;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Win32Tools;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\WinSocket;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\ServerEp;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\XML\extlib\eldos_aes;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\XML\general;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\XML\nativexml
 Packages=vcl;rtl;vclx;indy;inet;xmlrtl;vclie;inetdbbde;inetdbxpress;dbrtl;dsnap;vcldb;dsnapcon;soaprtl;VclSmp;dbexpress;dbxcds;inetdb;bdertl;vcldbx;webdsnap;websnap;adortl;ibxpress;dss;visualclx;visualdbclx;vclactnband;vclshlctrls;IntrawebDB_50_70;Intraweb_50_70;Rave50CLX;Rave50VCL;dclOfficeXP;Hydra_Core_D7;CPortLib7;comm;RaizeComponentsVcl;RaizeComponentsVclDb;MYPicshow;FetionD7;Tee87;TeeUI87;TeeDB87;TeePro87;TeeGL87;TeeImage87;TeeLanguage87;TeeWorld87
 Conditionals=
 DebugSourceDirs=
@@ -194,16 +192,5 @@ Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [HistoryLists\hlSearchPath]
 Count=10
-Item0=$(DELPHI)\Lib\Debug;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dtif;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcp;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\DBIOCP;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Lib;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Win32Tools;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\WinSocket;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\ServerEp;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\XML\extlib\eldos_aes;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\XML\general;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\XML\nativexml
-Item1=$(DELPHI)\Lib\Debug;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dtif;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcp;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\DBIOCP;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Lib;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Win32Tools;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\WinSocket;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\ServerEp;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\XML
-Item2=$(DELPHI)\Lib\Debug;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dtif;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcp;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\DBIOCP;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Lib;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Win32Tools;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\WinSocket;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\ServerEp
-Item3=$(DELPHI)\Lib\Debug;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dtif;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcp;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\DBIOCP;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Lib;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\Win32Tools;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcpnew\WinSocket
-Item4=$(DELPHI)\Lib\Debug;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dtif;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcp
-Item5=D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dtif;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_tcp
-Item6=D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dtif
-Item7=D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_server
-Item8=D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_child
-Item9=D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_base;D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\child
 [HistoryLists\hlUnitOutputDirectory]
 Count=1
-Item0=D:\cpy\恒联\医院项目\代码\UI\管理端最终框架\cds_dcu
